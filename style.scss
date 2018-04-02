@@ -199,6 +199,14 @@ img {
   letter-spacing: 1px;
 }
 
+.site-name a {
+  text-decoration: none;
+}
+
+.site-name a:hover {
+  text-decoration: underline;
+}
+
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
