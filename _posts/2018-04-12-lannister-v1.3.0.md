@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### How to update
 `npm install -g lannister`
@@ -10,5 +10,4 @@ published: false
 
 ### Contributors for v. 1.3.0
 @kennethlarsen
-@madsobel 
-
+@madsobel
