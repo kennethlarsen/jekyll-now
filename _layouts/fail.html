@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="posts">
+  <p>What is this you might think? This page is for everyone who feels like they are not good enough. Imposter Syndrome is a huge problem in the development community. I've been working as a developer for ~7 years and I've contributed to some big and well known open source projects - but guess what? I make stupid mistakes every single day. This is a log of all of my mistakes. Hopefully, they will make you feel better.</p>
+  {% for post in site.posts %}
+    {% if post.fail == null %}
+    {% else %}
+      <article class="post">
+
+        <h1>{{ post.date | date: "%B %e, %Y" }}</h1>
+
+        <div class="entry">
+          {{ post.content }}
+        </div>
+
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
