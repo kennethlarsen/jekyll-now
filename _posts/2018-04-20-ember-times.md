@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The Ember.js Times #43 (newsletter)
 
