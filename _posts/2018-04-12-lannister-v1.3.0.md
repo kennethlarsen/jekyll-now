@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-### How to update
+## How to update
 `npm install -g lannister`
 
 ### Changelog

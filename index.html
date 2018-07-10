@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="posts">
+<section class="posts">
   {% for post in site.posts %}
     {% if post.fail == null %}
       <article class="post">
@@ -17,4 +17,4 @@ layout: default
       </article>
     {% endif %}
   {% endfor %}
-</div>
+</section>
