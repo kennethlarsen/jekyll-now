@@ -4,7 +4,10 @@ title: Talks
 permalink: /talks/
 published: true
 ---
+### Upcoming talks
+* The State of Community Documentation @ [EmberFest 2018](https://emberfest.eu/schedule/#kenneth-larsen) (Amsterdam)
 
+### Past talks
 * Robots, ethics and news in the world of data @ Future of Data
 * Javascript and accessibility @ CopenhagenJS
 * Save the media with news bots and AI @ Den gode dag conference
