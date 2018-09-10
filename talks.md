@@ -5,6 +5,7 @@ permalink: /talks/
 published: true
 ---
 ### Upcoming talks
+* "How We Use Glimmer.js" @ [CopenhagenJS, September 27th 2018](https://www.meetup.com/copenhagenjs/events/253839050/).
 * The State of Community Documentation @ [EmberFest 2018](https://emberfest.eu/schedule/#kenneth-larsen) (Amsterdam)
 
 ### Past talks
